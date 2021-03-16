@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+.container-fluid{
+    background-color: #E9ECEF;
+    /* margin: 0;
+    padding: 0; */
+    /* color: white; */
+}
+.container{
+    background-color: #E9ECEF;
+}
+nav .navbar-brand{
+    font-size: 30px;
+}
+div .jumbotron-fluid{
+    margin-bottom: 0;
+}
+.btn-item-trash{
+    border: 0;
+    color: red;
+}
+.btn-item-trash:hover{
+    border: 0;
+    background-color: red;
+    color: white;
+}
